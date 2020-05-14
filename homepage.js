@@ -1,0 +1,1 @@
+$(function(){$(".home .section1").append($(".event-activity-mega-wrap")),$(".home .section2").append($(".visual-blog"))});

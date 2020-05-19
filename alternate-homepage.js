@@ -1,0 +1,1 @@
+$(function(){$(".interior-header").css("display","none"),$("body").removeClass("interior").addClass("home"),$(".event-activity-feed.header").css("display","none")});
